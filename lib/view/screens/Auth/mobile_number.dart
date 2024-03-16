@@ -310,6 +310,8 @@ class _MobileScreenState extends State<MobileScreen> {
                             ))),
                       ),
                     ),
+
+                    
                     Padding(
                         padding: const EdgeInsets.symmetric(
                           horizontal: 27,

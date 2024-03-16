@@ -40,6 +40,9 @@ const govImg = "assets/gov.png";
 const whatsAppImg = "assets/whatapp.png";
 const checkboxImg = "assets/checkbox.png";
 const alreadyWatchedImg = "assets/alreadywatched.png";
+const googleImage = 'assets/google1.png';
+
+const callImage = 'assets/call.png';
 
 ////////////Gallery Images/////////////////
 
